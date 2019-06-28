@@ -1,16 +1,16 @@
 {
-  "main.css": "/medicine-app/static/css/main.510b94d0.chunk.css",
-  "main.js": "/medicine-app/static/js/main.d62aebda.chunk.js",
-  "main.js.map": "/medicine-app/static/js/main.d62aebda.chunk.js.map",
+  "main.css": "/medicine-app/static/css/main.4d620392.chunk.css",
+  "main.js": "/medicine-app/static/js/main.9b85f391.chunk.js",
+  "main.js.map": "/medicine-app/static/js/main.9b85f391.chunk.js.map",
   "runtime~main.js": "/medicine-app/static/js/runtime~main.41cf1577.js",
   "runtime~main.js.map": "/medicine-app/static/js/runtime~main.41cf1577.js.map",
   "static/css/2.cae9e12a.chunk.css": "/medicine-app/static/css/2.cae9e12a.chunk.css",
-  "static/js/2.0ded6063.chunk.js": "/medicine-app/static/js/2.0ded6063.chunk.js",
-  "static/js/2.0ded6063.chunk.js.map": "/medicine-app/static/js/2.0ded6063.chunk.js.map",
+  "static/js/2.22eb773b.chunk.js": "/medicine-app/static/js/2.22eb773b.chunk.js",
+  "static/js/2.22eb773b.chunk.js.map": "/medicine-app/static/js/2.22eb773b.chunk.js.map",
   "index.html": "/medicine-app/index.html",
-  "precache-manifest.1bbdda5b91cd8368021b590edb6e7ec5.js": "/medicine-app/precache-manifest.1bbdda5b91cd8368021b590edb6e7ec5.js",
+  "precache-manifest.dbb74daabede2169e85a3e45c0f097be.js": "/medicine-app/precache-manifest.dbb74daabede2169e85a3e45c0f097be.js",
   "service-worker.js": "/medicine-app/service-worker.js",
   "static/css/2.cae9e12a.chunk.css.map": "/medicine-app/static/css/2.cae9e12a.chunk.css.map",
-  "static/css/main.510b94d0.chunk.css.map": "/medicine-app/static/css/main.510b94d0.chunk.css.map",
+  "static/css/main.4d620392.chunk.css.map": "/medicine-app/static/css/main.4d620392.chunk.css.map",
   "static/media/flexboxFroggy.css": "/medicine-app/static/media/next-treehouse.93c4e2a3.png"
 }

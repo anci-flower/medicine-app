@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/medicine-app/static/media/lilypad-yellow-color-assist.a7b67044.svg"
   },
   {
-    "revision": "128175a8eb2192aeb566",
-    "url": "/medicine-app/static/css/main.510b94d0.chunk.css"
+    "revision": "9439c8e9d6defdaa1678",
+    "url": "/medicine-app/static/css/main.4d620392.chunk.css"
   },
   {
     "revision": "57603dfec29be159115a",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/medicine-app/static/media/next-treehouse.93c4e2a3.png"
   },
   {
-    "revision": "dc1f8dfdf780a9d02d07",
-    "url": "/medicine-app/static/js/2.0ded6063.chunk.js"
+    "revision": "a950cbe4b74177088493",
+    "url": "/medicine-app/static/js/2.22eb773b.chunk.js"
   },
   {
     "revision": "ce1d4a1d6aaec1bde35f505c6102d6fa",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/medicine-app/static/media/lilypad-yellow.80e9bc88.svg"
   },
   {
-    "revision": "128175a8eb2192aeb566",
-    "url": "/medicine-app/static/js/main.d62aebda.chunk.js"
+    "revision": "9439c8e9d6defdaa1678",
+    "url": "/medicine-app/static/js/main.9b85f391.chunk.js"
   },
   {
     "revision": "79fbeddeaa26e5e0c7623cdee9da0a1a",
@@ -72,11 +72,11 @@ self.__precacheManifest = [
     "url": "/medicine-app/static/media/next-gridgarden.ed3f4dd9.png"
   },
   {
-    "revision": "dc1f8dfdf780a9d02d07",
+    "revision": "a950cbe4b74177088493",
     "url": "/medicine-app/static/css/2.cae9e12a.chunk.css"
   },
   {
-    "revision": "428f125349c7a11020d05d2c4aa1648d",
+    "revision": "8ced42549ab43c42cc2c61d824cf9fea",
     "url": "/medicine-app/index.html"
   }
 ];
