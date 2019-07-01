@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/medicine-app/static/media/lilypad-yellow-color-assist.a7b67044.svg"
   },
   {
-    "revision": "9439c8e9d6defdaa1678",
+    "revision": "93ba2c387054a665717a",
     "url": "/medicine-app/static/css/main.4d620392.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/medicine-app/static/media/lilypad-yellow.80e9bc88.svg"
   },
   {
-    "revision": "9439c8e9d6defdaa1678",
-    "url": "/medicine-app/static/js/main.9b85f391.chunk.js"
+    "revision": "93ba2c387054a665717a",
+    "url": "/medicine-app/static/js/main.d56d6ff1.chunk.js"
   },
   {
     "revision": "79fbeddeaa26e5e0c7623cdee9da0a1a",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/medicine-app/static/css/2.cae9e12a.chunk.css"
   },
   {
-    "revision": "8ced42549ab43c42cc2c61d824cf9fea",
+    "revision": "e82395c73c4c36f9c100ac1769df25fb",
     "url": "/medicine-app/index.html"
   }
 ];
